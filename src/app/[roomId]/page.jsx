@@ -32,7 +32,7 @@ const page = ({ params }) => {
       roomId,
       randomID(5),
       //   Date.now().toString(),
-      "user"
+      "user!!!"
     );
 
     // Create instance object from Kit Token.
